@@ -1,0 +1,30 @@
+body {
+    margin: 100px;
+}
+
+#alicia_profile_pic {
+max-width: 250px;
+border-radius: 50%;
+}
+
+#h_label {
+    text-align: center;
+}
+
+.image_box {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+
+#boxed_images {
+    padding: 20px;
+    max-height: 350px;
+    width: auto;
+    border-radius: 10%;
+}
+
+th, td {
+    padding: 10px;
+}
